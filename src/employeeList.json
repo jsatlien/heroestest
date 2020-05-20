@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "firstName": "Peter",
+        "lastName": "Parker",
+        "alias": "Spider-Man",
+        "image": "https://heroichollywood.com/wp-content/uploads/2019/08/Tom_Holland_Spider-Man_Sony_Marvel.jpg",
+        "email": "friendlyneighborhood@spiderman.com",
+        "occupation": "Photographer"
+    },
+    {
+        "id": 2,
+        "firstName": "Thanos",
+        "lastName": "",
+        "alias": "The Mad Titan",
+        "image": "https://cdn.vox-cdn.com/thumbor/FUiZhxG5CqieDugP3dvkh_QpQ3c=/0x0:2000x1000/1400x933/filters:focal(654x138:974x458):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/59408999/Thanos_MCU.0.jpg",
+        "email": "onesnap@sacrificeyourdaughter.com",
+        "occupation": "Autocrat"
+    },
+    {
+        "id": 3,
+        "firstName": "Wade",
+        "lastName": "Wilson",
+        "alias": "Deadpool",
+        "image": "https://img1.looper.com/img/gallery/some-major-changes-could-be-coming-for-deadpool-3/intro-1582726273.jpg",
+        "email": "mercwithamouth@breakthefourthwall.com",
+        "occupation": "Mercenary"
+    },
+    {
+        "id": 4,
+        "firstName": "Tony",
+        "lastName": "Stark",
+        "alias": "Iron Man",
+        "image": "https://www.nme.com/wp-content/uploads/2019/05/avengersrdj-696x442.jpg",
+        "email": "loveu3000@starkindustries.com",
+        "occupation": "Tech Tychoon"
+    },
+    {
+        "id": 5,
+        "firstName": "Natasha",
+        "lastName": "Romanov",
+        "alias": "Black Widow",
+        "image": "https://am24.mediaite.com/tms/cnt/uploads/2016/08/blackwidow.jpg",
+        "email": "reformedassassin@redroom.com",
+        "occupation": "Spy"
+    },
+    {
+        "id": 6,
+        "firstName": "Steve",
+        "lastName": "Rodgers",
+        "alias": "Captain America",
+        "image": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg",
+        "email": "peggy4me@firstavenger.org",
+        "occupation": "Soldier"
+    },
+    {
+        "id": 7,
+        "firstName": "Bruce",
+        "lastName": "Banner",
+        "alias": "Hulk",
+        "image": "https://img.etimg.com/thumb/msid-72400227,width-1200,height-900,imgsize-349917,overlay-etpanache/photo.jpg",
+        "email": "hulk@smash.com",
+        "occupation": "Scientist"
+    },
+    {
+        "id": 8,
+        "firstName": "Logan",
+        "lastName": "Howlett",
+        "alias": "Wolverine",
+        "image": "https://cdn.britannica.com/72/182872-050-914C987D/Hugh-Jackman-title-character-The-Wolverine-James.jpg",
+        "email": "thebestatwhatIdo@weaponx.com",
+        "occupation": "Assassin"
+    },
+    {
+        "id": 9,
+        "firstName": "Wanda",
+        "lastName": "Maximoff",
+        "alias": "Scarlet Witch",
+        "image": "https://img1.looper.com/img/gallery/why-scarlet-witchs-powers-are-underrated/intro-1571667819.jpg",
+        "email": "androidlove@nomoremutants.com",
+        "occupation": "Witch"
+    },
+    {
+        "id": 10,
+        "firstName": "Thor",
+        "lastName": "Odinson",
+        "alias": "God of Thunder",
+        "image": "https://c4.wallpaperflare.com/wallpaper/70/1011/821/thor-fat-thor-marvel-cinematic-universe-hd-wallpaper-preview.jpg",
+        "email": "asgardian1@odinson.org",
+        "occupation": "N/A"
+    },
+    {
+        "id": 11,
+        "firstName": "Clint",
+        "lastName": "Barton",
+        "alias": "Hawkeye",
+        "image": "https://i.pinimg.com/originals/10/f8/1d/10f81dd91b84c7fc7edaec391a0555cc.jpg",
+        "email": "Hawkeye@HawkeyeInvestigations.com",
+        "occupation": "Agent"
+    },
+    {
+        "id": 12,
+        "firstName": "Victor",
+        "lastName": "Shade",
+        "alias": "Vision",
+        "image": "https://depor.com/resizer/eLnu2vjclc86euMU8cDsVBR9ACU=/980x528/smart/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/YV3CY6UETVDZPHFIDUI4WVK2JQ.jpg",
+        "email": "wandalove@vivvin.com",
+        "occupation": "N/A"
+    }
+]

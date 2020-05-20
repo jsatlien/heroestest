@@ -1,0 +1,23 @@
+.card {
+    background: white;
+    height: 400px;
+    width: 400px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  }
+  
+  .img-container {
+    height: 400px;
+    width: 400px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  
+  }
+  
+  #alias {
+    font-weight: bold;
+  }
